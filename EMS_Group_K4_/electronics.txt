@@ -1,0 +1,4 @@
+itemID,itemName,brand,model,year,price
+1001,Mobil Phone,Apple,iphone,2018,1500
+1002,Laptop,Dell,XPS,2020,1850
+1003,TV,LG,OLED,2019,2000
